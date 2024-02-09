@@ -1,0 +1,70 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+main {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+form {
+  width: 50vw;
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+}
+.form-div {
+  width: 45vw;
+  height: 60vh;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+#name-div {
+  width: 45vw;
+  height: 10vh;
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+}
+
+.password-div {
+   width: 45vw;
+  height: 10vh;
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+}
+
+input{
+  padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
